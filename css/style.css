@@ -1,0 +1,50 @@
+body{
+
+
+}
+
+#form-toDolist{
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 40px;
+  background: white;
+  border-radius: 5px;}
+}
+.button{
+
+}
+form {
+  display: inline-block;
+
+}
+#listItem{
+
+}
+#button{
+  margin-bottom: 5px;
+}
+
+.container{
+  background-color: grey;
+}
+#tasks{
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 40px;
+  background: white;
+  border-radius: 5px;
+}
+
+#removeButton{
+
+  float: right;
+
+}
+
+#dangerButton{
+
+  float: right;
+  display: inline-block;
+}
